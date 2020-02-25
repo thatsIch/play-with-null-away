@@ -7,4 +7,4 @@ This is a playground to play with [NullAway](https://github.com/uber/NullAway). 
 It is not working with Maven on JDK 9 to 13. There are mentions it working with JDK 11.
 See [this null away issue](https://github.com/uber/NullAway/issues/259) to track issue.
 
-There is apparently a [project](https://github.com/otr4j/otr4j/blob/fd42a4e73ed52d5baf7ae4f7850b6c876a1702ce/pom.xml) which got it running with JDK 9.
+There is apparently a [project](https://github.com/otr4j/otr4j/blob/fd42a4e73ed52d5baf7ae4f7850b6c876a1702ce/pom.xml) which got it running with JDK 9 referenced from this [blog](https://www.dannyvanheumen.nl/post/java-compile-time-static-analysis-with-errorprone-and-nullaway/).
