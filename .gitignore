@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# include cms related files
+!.gitignore
+
+# include build related files
+!pom.xml
+
+# include application source
+!src
